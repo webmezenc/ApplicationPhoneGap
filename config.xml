@@ -27,7 +27,7 @@
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
   <icon src="icon.png" />
   
-  <preference name="SplashScreenDelay" value="10000" />
+  <preference name="SplashScreenDelay" value="50000" />
   <platform name="android">
     <icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
     <icon src="www/res/icon/android/drawable-mdpi-icon.png" density="mdpi"/>
