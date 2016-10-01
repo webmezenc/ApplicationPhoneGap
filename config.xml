@@ -27,18 +27,18 @@
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
   <icon src="icon.png" />
   
-  <splash src="drawable-land-ldpi-screen.png" density="land-ldpi" platform="android" />
-  <splash src="drawable-land-mdpi-screen.png" density="land-mdpi" platform="android"  />
-  <splash src="drawable-land-hdpi-screen.png" density="land-hdpi" platform="android"  />
-  <splash src="drawable-land-xhdpi-screen.png" density="land-xhdpi" platform="android"  />
-  <splash src="drawable-land-xxhdpi-screen.png" density="land-xxhdpi" platform="android"  />
-  <splash src="drawable-land-xxxhdpi-screen.png" density="land-xxxhdpi" platform="android"  />
-  <splash src="drawable-port-ldpi-screen.png" density="port-ldpi" platform="android"  />
-  <splash src="drawable-port-mdpi-screen.png" density="port-mdpi" platform="android"  />
-  <splash src="drawable-port-hdpi-screen.png" density="port-hdpi" platform="android"  />
-  <splash src="drawable-port-xhdpi-screen.png" density="port-xhdpi" platform="android"  />
-  <splash src="drawable-port-xxhdpi-screen.png" density="port-xxhdpi" platform="android"  />
-  <splash src="drawable-port-xxxhdpi-screen.png" density="port-xxxhdpi" platform="android"  />
+    <splash src="www/drawable-land-ldpi-screen.png" density="land-ldpi" platform="android" />
+    <splash src="www/drawable-land-mdpi-screen.png" density="land-mdpi" platform="android"  />
+    <splash src="www/drawable-land-hdpi-screen.png" density="land-hdpi" platform="android"  />
+    <splash src="www/drawable-land-xhdpi-screen.png" density="land-xhdpi" platform="android"  />
+    <splash src="www/drawable-land-xxhdpi-screen.png" density="land-xxhdpi" platform="android"  />
+    <splash src="www/drawable-land-xxxhdpi-screen.png" density="land-xxxhdpi" platform="android"  />
+    <splash src="www/drawable-port-ldpi-screen.png" density="port-ldpi" platform="android"  />
+    <splash src="www/drawable-port-mdpi-screen.png" density="port-mdpi" platform="android"  />
+    <splash src="www/www/drawable-port-hdpi-screen.png" density="port-hdpi" platform="android"  />
+    <splash src="www/drawable-port-xhdpi-screen.png" density="port-xhdpi" platform="android"  />
+    <splash src="www/drawable-port-xxhdpi-screen.png" density="port-xxhdpi" platform="android"  />
+    <splash src="www/drawable-port-xxxhdpi-screen.png" density="port-xxxhdpi" platform="android"  />
 
 
   
